@@ -1,0 +1,14 @@
+{
+    "monedas": [
+      {
+        "nombre": "Dólar",
+        "codigo": "USD",
+        "tasaCambio": 1250
+      },
+      {
+        "nombre": "Euro",
+        "codigo": "EUR",
+        "tasaCambio": 850
+      }
+    ]
+  }
